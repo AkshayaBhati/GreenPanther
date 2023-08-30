@@ -1,6 +1,6 @@
 Green Panther
 ESE 5160 Spring 2023 project. Green Panther: plant health monitor measuring soil NPK levels, moisture, and watering plants as necessary.
-===================================
+========================================================================================================================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
